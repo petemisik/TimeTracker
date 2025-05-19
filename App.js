@@ -318,7 +318,7 @@ const App = () => {
       ]}
     >
       <Image 
-        source={require('./assets/logo.png')} 
+        source={require('./assets/DubClubLogo.png')} 
         style={styles.logo}
         resizeMode="contain"
       />
